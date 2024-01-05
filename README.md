@@ -1,6 +1,7 @@
-# **Welcome**
+# **Hey, I'm Maxence Depire**
 
-**I'm Maxence Depire**
-- A French student in IT engineering, at Imerir (Perpignan).
-- Live in Toulouse, France.
-- Currently working for @EHB, and @Dev-I-Tech.
+## **Me.**
+
+I'm **Maxence Depire**, a young French student studying **computer science** and **robotics**, at **IMERIR** (Perpignan, France).
+
+I also work for **EHB**, as an automation **engineer and IT developer**.
